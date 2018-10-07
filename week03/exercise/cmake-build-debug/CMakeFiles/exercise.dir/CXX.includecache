@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carlo/Projects/cpp-university/week03/exercise/example.h
+
+/home/carlo/Projects/cpp-university/week03/exercise/main.cpp
+iostream
+-
+example.h
+/home/carlo/Projects/cpp-university/week03/exercise/example.h
+

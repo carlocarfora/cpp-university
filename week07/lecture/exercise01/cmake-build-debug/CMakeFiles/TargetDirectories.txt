@@ -1,0 +1,3 @@
+/home/carlo/Projects/cpp-university/week07/lecture/exercise01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carlo/Projects/cpp-university/week07/lecture/exercise01/cmake-build-debug/CMakeFiles/exercise01.dir
+/home/carlo/Projects/cpp-university/week07/lecture/exercise01/cmake-build-debug/CMakeFiles/edit_cache.dir

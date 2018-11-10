@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carlo/Projects/cpp-university/week08/homework/conversion.hpp
+string
+-
+
+/home/carlo/Projects/cpp-university/week08/homework/main.cpp
+iostream
+-
+cassert
+-
+conversion.hpp
+/home/carlo/Projects/cpp-university/week08/homework/conversion.hpp
+

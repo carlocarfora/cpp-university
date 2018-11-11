@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lecture.dir/main.cpp.o CMakeFiles/lecture.dir/Point.cpp.o  -o lecture 

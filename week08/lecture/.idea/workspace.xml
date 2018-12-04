@@ -12,18 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c31accbf-b03b-4c06-a6e5-4124f121d848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Point.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Point.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/CMakeFiles/homework.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/build/homework" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/build/homework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/homework/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/homework/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week07/lecture/exercise01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week07/lecture/exercise01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +26,12 @@
     <session id="906601335">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -90,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/Point.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -126,8 +117,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="3" />
-    <option name="width" value="683" />
-    <option name="height" value="765" />
+    <option name="width" value="1368" />
+    <option name="height" value="767" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,6 +144,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -196,17 +188,19 @@
       <updated>1541534133329</updated>
       <workItem from="1541534135025" duration="1856000" />
       <workItem from="1541935105618" duration="29000" />
+      <workItem from="1541935422659" duration="38000" />
+      <workItem from="1541937329330" duration="206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1885000" />
+    <option name="totallyTimeSpent" value="2129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="3" width="683" height="765" extended-state="0" />
+    <frame x="0" y="3" width="1368" height="767" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25826773" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.27045456" />
+      <window_info id="Structure" order="1" sideWeight="0.5015528" side_tool="true" weight="0.27045456" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -240,7 +234,7 @@
     <entry file="file://$PROJECT_DIR$/Point.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -253,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

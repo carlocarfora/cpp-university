@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/home/carlo/Projects/cpp-university/week08/homework/conversion.cpp
+iostream
+-
+conversion.hpp
+/home/carlo/Projects/cpp-university/week08/homework/conversion.hpp
+
 /home/carlo/Projects/cpp-university/week08/homework/conversion.hpp
 string
 -
